@@ -1,1 +1,1 @@
-# Basic-DSA-
+Basics of DSA
