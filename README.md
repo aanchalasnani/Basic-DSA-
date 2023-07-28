@@ -1,3 +1,3 @@
 **#Basics of DSA**
 
-Here I will Upload my codes of basic data structures like a stack, linked lists, sorting techniques, trees, graphs, queues, etc.
+Here is the list of all the basic data structures which I learnt in 2nd semester.
